@@ -1,0 +1,7 @@
+List of project ideas in python
+1. Rock,Paper,Scissors
+2. How much have I spent on Amazon?
+3. Dice Rolling Simulator using Python
+4. Build the Snake Game with PyGame
+5. Cepheus engine TTRPG
+6. B/X D&D engine
